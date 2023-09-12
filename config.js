@@ -8,13 +8,13 @@ global.namabot = 'Bot W'
 global.namaowner = 'Wiki W'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6285338324402'
-global.nomorlu = '6285338324402'
-global.ownernomer = ["6285338324402"]
+global.owner = '-'
+global.nomorlu = '-'
+global.ownernomer = ["-"]
 global.premium = ['6285338324402']
 
 //—————「 Set Wm 」—————//
-global.packname = 'Bot W'
+global.packname = 'ig: @saya_wiki'
 global.author = 'Wiki W'
 global.prefa = ['', '.']
 global.sp = '•'
