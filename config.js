@@ -4,18 +4,18 @@ const chalk = require('chalk')
 global.apikey = 'isi apikey lu'
 global.rosekey = '-' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'ɢᴀʙᴜᴛʙᴏᴛ-ʀᴇʙᴏʀɴ'
-global.namaowner = 'ShinySebastian'
+global.namabot = 'Bot W'
+global.namaowner = 'Wiki W'
 
 //—————「 Setting Owner 」—————//
-global.owner = '628116646665'
-global.nomorlu = '6281932309239'
-global.ownernomer = ["628116646665"]
-global.premium = ['628116646665']
+global.owner = '6285338324402'
+global.nomorlu = '6285338324402'
+global.ownernomer = ["6285338324402"]
+global.premium = ['6285338324402']
 
 //—————「 Set Wm 」—————//
-global.packname = 'GabutBot-Reborn'
-global.author = 'ShinySebastian'
+global.packname = 'Bot W'
+global.author = 'Wiki W'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -40,8 +40,8 @@ global.limitawal = {
 }
 
 //—————「 Set Image 」—————//
-global.imageurl = 'https://i.pinimg.com/236x/75/d8/8e/75d88ec4982f34ce10009c9024934be8.jpg'
-global.isLink = `https://youtube.com/@shinysebastianchannel`
+global.imageurl = 'https://telegra.ph/file/de9a248b7ac5e34c2a98b.jpg'
+global.isLink = `https://www.instagram.com/saya_wiki`
 global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 //—————「 Batas Akhir 」—————//
